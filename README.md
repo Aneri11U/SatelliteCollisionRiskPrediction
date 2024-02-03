@@ -9,6 +9,7 @@ In this model we predicted the final collision risk estimate between a given sat
 Dataset: https://www.kaggle.com/datasets/shadmanrohan/collisionavoidancechallenge
 
 PACKAGES used:
-•	sklearn 
-•	seaborn
-•	matplotlib
+- sklearn
+- seaborn
+- matplotlib
+- pandas
